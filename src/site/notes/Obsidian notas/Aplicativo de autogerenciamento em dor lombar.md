@@ -3,3 +3,5 @@
 ---
 
 [[Obsidian notas/Programa de autogerenciamento em dor\|Programa de autogerenciamento em dor]]
+
+Testes de texto
